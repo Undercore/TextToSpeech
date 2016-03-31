@@ -1,0 +1,18 @@
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.frmMain.resources
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+c:\users\_\documents\visual studio 2015\Projects\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csprojResolveAssemblyReference.cache
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.frmMain.resources
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.Properties.Resources.resources
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.csproj.GenerateResource.Cache
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe.config
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.exe
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\bin\Debug\TextToSpeech.pdb
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.exe
+C:\Users\Odus\Desktop\TextToSpeech\TextToSpeech\obj\Debug\TextToSpeech.pdb
